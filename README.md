@@ -10,6 +10,7 @@ A simple task management web application built with Laravel. This application al
 - **Project Organization**: Group tasks into projects
 - **Project Filtering**: Filter tasks by specific projects
 - **Responsive Design**: Works on desktop, tablet, and mobile devices
+- **AJAX Updates**: Task reordering saves via AJAX without a full page refresh
 
 ## Requirements
 
